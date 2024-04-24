@@ -66,7 +66,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   
-  <a href="https://www.facebook.com/giangchuate03/" target="blank">
+  <a href="https://www.facebook.com/giangnguyxn03/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
   <!-- <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
@@ -75,7 +75,7 @@
   <!-- <a href="https://www.linkedin.com/in/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a> -->
-  <a href="https://www.instagram.com/nng03_/" target="blank">
+  <a href="https://www.instagram.com/giangnguyxn03/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
   <a href="mailto:nhogiang03tg@gmail.com" target="top">
